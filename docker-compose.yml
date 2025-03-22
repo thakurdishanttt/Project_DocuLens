@@ -1,0 +1,19 @@
+services:
+  api:
+    build: .
+    container_name: doculens-backend
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8080
+    volumes:
+      - .:/app
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    environment:
+      - SUPABASE_URL=${SUPABASE_URL}
+      - SUPABASE_KEY=${SUPABASE_KEY}
+      - TESSERACT_PATH=/usr/bin/tesseract
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+      - LLAMA_PARSE_API_KEY=${LLAMA_PARSE_API_KEY}
+      - LLAMA_PARSE_BASE_URL=${LLAMA_PARSE_BASE_URL}
+    restart: unless-stopped
