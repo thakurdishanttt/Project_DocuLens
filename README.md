@@ -1,4 +1,4 @@
-
+DocuLens
 
 This AI Pipeline  is a Gen AI focussed  document processing tool that applies advanced AI capabilities to automatically analyze, classify,
 and extract information from a wide range of documents. By streamlining critical tasks such as data extraction, document enrichment, 
