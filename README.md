@@ -1,15 +1,15 @@
-# DocuLens
 
-Docluents is a Gen AI focussed  document processing tool that applies advanced AI capabilities to automatically analyze, classify,
+
+This AI Pipeline  is a Gen AI focussed  document processing tool that applies advanced AI capabilities to automatically analyze, classify,
 and extract information from a wide range of documents. By streamlining critical tasks such as data extraction, document enrichment, 
-and secure storage, **DocuLens** significantly reduces manual workload, lowers processing costs, and 
+and secure storage, It significantly reduces manual workload, lowers processing costs, and 
 drives operational efficiencies for organizations of any size.
 
 ---
 
 ## Overview
 
-DocuLens accelerates digital transformation by enabling businesses to:
+It accelerates digital transformation by enabling businesses to:
 - **Process and classify** diverse documents (e.g., invoices, legal contracts, images).
 - **Extract critical data** using cutting-edge AI models tailored for various industry scenarios.
 - **Enhance document quality** and **retrieve information** accurately with robust OCR support for multiple languages.
@@ -17,7 +17,7 @@ DocuLens accelerates digital transformation by enabling businesses to:
 - **Enrich** extracted documents with custom-defined fields and intelligent tagging.
 - **Securely store** and manage documents with version control, metadata management, and robust security.
 
-By leveraging the **DocuLens**, companies can turn document handling from a time-intensive chore into a strategic advantage.
+By leveraging the **It**, companies can turn document handling from a time-intensive chore into a strategic advantage.
 
 ---
 
@@ -33,7 +33,7 @@ By leveraging the **DocuLens**, companies can turn document handling from a time
   - Scanned documents  
   - Image-based PDFs  
 
-This flexible approach ensures DocuLens can handle virtually any document format.
+This flexible approach ensures,it can handle virtually any document format.
 
 ### 2. Data Extraction
 - **AI-Powered Extraction**  
@@ -43,11 +43,11 @@ This flexible approach ensures DocuLens can handle virtually any document format
   Identifies documents based on existing or user-defined contract templates, speeding up onboarding and simplifying unique workflows.
 
 - **User-Defined Contracts**  
-  Allows defining custom extraction rules or field requirements. DocuLens then automatically extracts these fields across new, similar documents.
+  Allows defining custom extraction rules or field requirements. This pipeline  then automatically extracts these fields across new, similar documents.
 
 ### 3. Email & Drive Integration
 - **Plugin-Style Integration**  
-  Plug DocuLens into your existing email or drive services, selecting specific conversations or folders to process. This eliminates the need to manually move files between systems.
+  Plug It into your existing email or drive services, selecting specific conversations or folders to process. This eliminates the need to manually move files between systems.
 
 ### 4. Image Processing
 - **Automatic Enhancement**  
@@ -60,7 +60,7 @@ This flexible approach ensures DocuLens can handle virtually any document format
 
 ### 5. Document Enrichment
 - **Custom Enrichment Rules**  
-  Define advanced tagging or categorization fields (e.g., Cost Center, Spend Category). Over time, DocuLens learns to automatically apply these tags.
+  Define advanced tagging or categorization fields (e.g., Cost Center, Spend Category). Over time, Itlearns to automatically apply these tags.
 
 - **Intelligent Categorization**  
   Reduces manual data labeling by “learning” from each new example and applying consistent categorization to future documents.
